@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reflection", "reflection.vcproj", "{FB276AB8-A008-9712-436D-01BFD0A3B5B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Final|Win32 = Final|Win32
+		Profile|Win32 = Profile|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB276AB8-A008-9712-436D-01BFD0A3B5B5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB276AB8-A008-9712-436D-01BFD0A3B5B5}.Debug|Win32.Build.0 = Debug|Win32
+		{FB276AB8-A008-9712-436D-01BFD0A3B5B5}.Final|Win32.ActiveCfg = Final|Win32
+		{FB276AB8-A008-9712-436D-01BFD0A3B5B5}.Final|Win32.Build.0 = Final|Win32
+		{FB276AB8-A008-9712-436D-01BFD0A3B5B5}.Profile|Win32.ActiveCfg = Profile|Win32
+		{FB276AB8-A008-9712-436D-01BFD0A3B5B5}.Profile|Win32.Build.0 = Profile|Win32
+		{FB276AB8-A008-9712-436D-01BFD0A3B5B5}.Release|Win32.ActiveCfg = Release|Win32
+		{FB276AB8-A008-9712-436D-01BFD0A3B5B5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

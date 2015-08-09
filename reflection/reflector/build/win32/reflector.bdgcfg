@@ -1,0 +1,10 @@
+[General]
+Type = ConsoleApplication
+SourceFiles = SourceFiles
+
+[Project]
+IncludePaths=../../../..;../../../../external
+
+[Solution]
+Dependencies=reflector;core;rdestl;io
+DependenciesPaths=../../../..;../../../../external

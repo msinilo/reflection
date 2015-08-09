@@ -1,0 +1,12 @@
+..\..\Field.h
+..\..\FundamentalTypes.h
+..\..\StrId.h
+..\..\Type.h
+..\..\TypeClass.h
+..\..\TypeEnum.h
+..\..\TypeRegistry.h
+..\..\Field.cpp
+..\..\Type.cpp
+..\..\TypeClass.cpp
+..\..\TypeEnum.cpp
+..\..\TypeRegistry.cpp

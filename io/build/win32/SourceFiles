@@ -1,0 +1,9 @@
+..\..\FileStream.h
+..\..\IoSys.h
+..\..\Stream.h
+..\..\StreamReader.h
+..\..\StreamWriter.h
+..\..\FileStream.cpp
+..\..\win32\IoSys.cpp
+..\..\StreamReader.cpp
+..\..\StreamWriter.cpp
